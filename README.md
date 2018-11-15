@@ -10,6 +10,7 @@ Para la aplicación móvil.
 * Como usuario puedo iniciar sesion para guardar mis datos
 
 # Sprint Planning
+
 * Como usuario quiero poder tomar/subir una foto de algo, agregarle tags (y definir si es offensive, nudge o persuasive design).
 * Como usuario puedo iniciar sesion para guardar mis datos.
 * Como usuario quiero poder ver un mapa con pins de todas las fotos que se han subido.
@@ -44,9 +45,11 @@ STORY 2
 # Technology Stack
 
 ## Frontend Mobile
+
 * React Native
 
 ## Backend
+
 * Python Django
 
 * NoSQL - DocumentDB if Azure else MongoDB
