@@ -34,18 +34,18 @@ Para la aplicación móvil.
 | Tomar fotos                       | 2h       |
 | Seleccionar fotos                 | 1h       |
 | Preview de las fotos              | 1h       |
-| llenar y enviar fomulario         | 1h       |
-| definir schema para el formulario | 1h       |
-| guardar formulario en DB          | 3h       |
+| Llenar y enviar fomulario         | 1h       |
+| Definir schema para el formulario | 1h       |
+| Guardar formulario en DB          | 3h       |
 
 
 ## Story 2
 
 | Tarea                                      | Duración |
 | ------------------------------------------ | -------- |
-| Implmentar SSO en backend                  | ?        |
-| Guardar la autenticacion en base de datos. | ?        |
-| Implmentar SSO en frontend                 | ?        |
+| Implementar SSO en backend                 | ?        |
+| Guardar la autenticación en base de datos. | ?        |
+| Implementar SSO en frontend                | ?        |
 
 # Technology Stack
 
