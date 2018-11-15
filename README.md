@@ -1,17 +1,19 @@
-# Historias de Usuario
+# App. Reconocimiento de Diseño
+
+## Historias de Usuario
 
 Para la aplicación móvil.
 
--   Como usuario quiero tomar fotos para guardarlas y categorizarlas (offensive, nudge, o persuasive design).
--   Como usuario quiero recibir una sugerencia de qué tipo de diseño es la imagen para hacer el proceso fácil.
--   Como usuario quiero ver un mapa con pins de las imágenes guardadas para poder localizarlas.
--   Como usuario quiero tocar un pin para ver los detalles de la foto.
--   Como usuario quiero validar una foto para mejorar las sugerencias de nuevas fotos.
--   Como usuario puedo iniciar sesion para guardar mis datos.
+- Como usuario quiero tomar fotos para guardarlas y categorizarlas (offensive, nudge, o persuasive design).
+- Como usuario quiero recibir una sugerencia de qué tipo de diseño es la imagen para hacer el proceso fácil.
+- Como usuario quiero ver un mapa con pins de las imágenes guardadas para poder localizarlas.
+- Como usuario quiero tocar un pin para ver los detalles de la foto.
+- Como usuario quiero validar una foto para mejorar las sugerencias de nuevas fotos.
+- Como usuario puedo iniciar sesion para guardar mis datos.
 
-# Sprint Planning
+## Sprint Planning
 
-## Spike
+### Spike
 
 | Tarea                                                         | Duración |
 | ------------------------------------------------------------- | -------- |
@@ -25,7 +27,7 @@ Para la aplicación móvil.
 | Implementar la base de datos en el server                     | 3h       |
 | Implementar DJANGO en el server                               | 3h       |
 
-## Story 1
+### Story 1
 
 | Tarea                             | Duración |
 | --------------------------------- | -------- |
@@ -38,8 +40,7 @@ Para la aplicación móvil.
 | Definir schema para el formulario | 1h       |
 | Guardar formulario en DB          | 3h       |
 
-
-## Story 2
+### Story 2
 
 | Tarea                                      | Duración |
 | ------------------------------------------ | -------- |
@@ -47,18 +48,18 @@ Para la aplicación móvil.
 | Guardar la autenticación en base de datos. | ?        |
 | Implementar SSO en frontend                | ?        |
 
-# Technology Stack
+## Technology Stack
 
-## Frontend (Mobile)
+### Frontend (Mobile)
 
-* React Native
+- React Native
 
-## Backend
+### Backend
 
 | Componente | Herramienta                                               |
 | ---------- | --------------------------------------------------------- |
 | Web Server | Django                                                    |
 | SQL DB     | DocumentDB if Azure else MongoDB                          |
 | NoSQL DB   | SQLServer if Azure else (PostgreSQL if Heroku else MySQL) |
-| A.I.       | Tensorflow (Python)                                       |
+| A.I.       | TensorFlow (Python)                                       |
 | Support    | ?                                                         |
